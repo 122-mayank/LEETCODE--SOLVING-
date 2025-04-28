@@ -1,0 +1,41 @@
+class Solution {
+public:
+    bool isValid(string s) {
+       
+     stack<char> strs ; 
+    for (int i = 0 ;  i< s.length() ; i++)
+    {
+    char ch = s[i];
+
+    if (ch == '(' || ch == '{' || ch == '[')
+   {
+     strs.push(ch) ; 
+   }
+    else {
+    if (!strs.empty()){
+        
+      char top = strs.top() ;
+     if ((ch == ')' && top == '(') || 
+    (ch == '}' && top == '{') ||
+     (ch == ']' && top == '[')) 
+      {
+         strs.pop() ;
+      }
+    else 
+  {
+      return false ; 
+  }
+}
+  else 
+ {
+      return false ;
+ }
+  }
+        }
+        if (strs.empty())
+        {
+            return true ; 
+        }
+        return false ;
+    }
+};
