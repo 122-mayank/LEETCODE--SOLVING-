@@ -1,0 +1,51 @@
+
+class Solution {
+private:
+    bool knows(vector<vector<int>>& mat, int a, int b) {
+        return mat[a][b] == 1;
+    }
+
+public:
+    int celebrity(vector<vector<int>>& mat) {
+        int n = mat.size();
+        stack<int> s;
+        
+        // Push all people onto the stack
+        for (int i = 0; i < n; i++) {
+            s.push(i);
+        }
+
+        // Find the potential celebrity
+        while (s.size() > 1) {
+            int a = s.top();
+            s.pop();
+            int b = s.top();
+            s.pop();
+
+            if (knows(mat, a, b)) {
+                s.push(b);  // b might be the celebrity
+            } else {
+                s.push(a);  // a might be the celebrity
+            }
+        }
+
+        int candidate = s.top();  // The remaining person is a candidate
+        
+        // Verify if the candidate is the celebrity
+        // Check row: All values in the candidate's row should be 0 (except mat[candidate][candidate])
+        for (int i = 0; i < n; i++) {
+            if (i != candidate && mat[candidate][i] == 1) {
+                return -1;  // Candidate knows someone else, so not a celebrity
+            }
+        }
+
+        // Check column: All values in the candidate's column should be 1 (except mat[candidate][candidate])
+        for (int i = 0; i < n; i++) {
+            if (i != candidate && mat[i][candidate] == 0) {
+                return -1;  // Someone doesn't know the candidate, so not a celebrity
+            }
+        }
+
+        return candidate;  // Candidate is a celebrity
+    }
+};
