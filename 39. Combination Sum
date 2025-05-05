@@ -1,0 +1,32 @@
+class Solution {
+private:
+    void solve(vector<int>& candidates, int target, vector<int> output,
+               vector <vector<int>>& ans, int index) {
+
+        if (target == 0) {
+            ans.push_back(output);
+            return;
+        }
+
+        if (index >= candidates.size() || target < 0) {
+            return;
+        }
+
+        output.push_back(candidates[index]);
+
+        solve(candidates, target - candidates[index], output, ans, index);
+        output.pop_back();
+
+        solve(candidates, target, output, ans, index + 1);
+    }
+
+public:
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        int index = 0;
+        vector<int> output;
+        vector<vector<int>> ans;
+
+        solve(candidates, target, output, ans, index);
+        return ans;
+    }
+};
