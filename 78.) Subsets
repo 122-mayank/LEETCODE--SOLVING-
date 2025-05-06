@@ -1,0 +1,29 @@
+class Solution {
+private:
+void solve( vector<int> op , vector<vector<int>> &ans , vector<int>& nums , int index){
+
+        if(index >= nums.size()){
+           ans.push_back(op);
+           return;
+        }
+         
+         //exclude
+        solve(op , ans , nums , index+1);
+
+        //include
+        int ele = nums[index];
+        op.push_back(ele);
+        solve(op , ans , nums , index+1);
+        
+
+
+     }
+public:
+    vector<vector<int>> subsets(vector<int>& nums) {
+          vector<int> op;
+          vector<vector<int>> ans;
+          int index = 0;
+         solve(op , ans , nums , index);
+         return ans;
+    }
+};
