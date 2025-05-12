@@ -1,0 +1,61 @@
+class MyCircularQueue {
+public:
+    int front;
+    int rear;
+    int* arr;
+    int k;
+
+    MyCircularQueue(int k) {
+        front = -1;
+        rear = -1;
+        this->k = k;
+        arr = new int[k];
+    }
+
+    bool enQueue(int value) {
+        if ((rear + 1) % k == front) {
+            return false; // Queue is full
+        }
+
+        if (front == -1) { // First element
+            front = rear = 0;
+        } else {
+            rear = (rear + 1) % k;
+        }
+
+        arr[rear] = value;
+        return true;
+    }
+
+    bool deQueue() {
+        if (front == -1) {
+            return false; // Queue is empty
+        }
+
+        if (front == rear) {
+            front = rear = -1; // Queue becomes empty
+        } else {
+            front = (front + 1) % k;
+        }
+
+        return true;
+    }
+
+    int Front() {
+        if (front == -1) return -1;
+        return arr[front];
+    }
+
+    int Rear() {
+        if (rear == -1) return -1;
+        return arr[rear];
+    }
+
+    bool isEmpty() {
+        return front == -1;
+    }
+
+    bool isFull() {
+        return (rear + 1) % k == front;
+    }
+};
