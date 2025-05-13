@@ -1,0 +1,15 @@
+bool isPalindrome(int x) {
+    int rem,i;
+    long long int num=0;
+    int temp=x;
+    if(x==0)
+    return true;
+    while(x!=0){
+    rem=x%10;
+    num=num*10+rem;
+    x=x/10;
+    }if(temp==num && num>0)
+    return true;
+    else
+    return false;
+}
