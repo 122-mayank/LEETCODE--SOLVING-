@@ -1,0 +1,52 @@
+class Solution {
+public:
+    void setZeroes(vector<vector<int>>& matrix) {
+
+        unordered_map<int, vector<int>> store;
+
+        int m = matrix.size();
+        int n = matrix[0].size();
+
+        // mapping all zeroes with thier particular row and column
+        for (int i = 0; i < m; i++) {
+
+            for (int j = 0; j < n; j++) {
+                if (matrix[i][j] == 0) {
+
+                    store[matrix[i][j]].push_back(i);
+                    store[matrix[i][j]].push_back(j);
+                }
+            }
+        }
+
+        // mark the value of zeroes in the matrix
+        vector<int> temp;
+        for (auto i : store) {
+            for (auto j : i.second) {
+                temp.push_back(j);
+            }
+        }
+
+        for (int k = 1; k < temp.size(); k = k + 2) {
+            int row = temp[k - 1];
+            int col = temp[k];
+
+            // up
+            for (int i = row; i >= 0; i--) {
+                matrix[i][col] = 0;
+            }
+            // down
+            for (int i = row; i < m; i++) {
+                matrix[i][col] = 0;
+            }
+            // left
+            for (int j = col; j >= 0; j--) {
+                matrix[row][j] = 0;
+            }
+            // right
+            for (int j = col; j < n; j++) {
+                matrix[row][j] = 0;
+            }
+        }
+    }
+};
