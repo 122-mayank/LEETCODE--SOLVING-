@@ -1,0 +1,40 @@
+class Solution {
+public:
+    int nextGreaterElement(int n) {
+        // Step 1: Extract digits into vector (in reverse order)
+        vector<int> digits;
+        int temp = n;
+        while (temp > 0) {
+            digits.push_back(temp % 10);
+            temp /= 10;
+        }
+        reverse(digits.begin(), digits.end()); // put digits in correct order
+
+        // Step 2: Apply next permutation manually
+        int i = digits.size() - 2;
+        while (i >= 0 && digits[i] >= digits[i + 1]) {
+            i--;
+        }
+
+        if (i < 0) return -1; // already the largest permutation
+
+        // Find the smallest digit greater than digits[i] on right side
+        int j = digits.size() - 1;
+        while (digits[j] <= digits[i]) {
+            j--;
+        }
+        swap(digits[i], digits[j]);
+
+        // Reverse suffix
+        reverse(digits.begin() + i + 1, digits.end());
+
+        // Step 3: Rebuild number
+        long long ans = 0;
+        for (int d : digits) {
+            ans = ans * 10 + d;
+            if (ans > INT_MAX) return -1; // overflow check
+        }
+
+        return (int)ans;
+    }
+};
