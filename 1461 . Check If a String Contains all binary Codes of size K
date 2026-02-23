@@ -1,0 +1,29 @@
+class Solution {
+public:
+    bool hasAllCodes(string s, int k) {
+        
+
+        int size = s.size() - k;
+        int i = 0, j;
+
+         set<string>st;
+
+        while( i <= size ){
+
+                string substr = s.substr(i, k);
+                 st.insert(substr);
+                i++; 
+        }
+
+        int res = st.size();
+
+        int power = 1 << k;
+
+        if(res == power){
+             return true;
+        } 
+        
+        return false;
+
+    }
+};
