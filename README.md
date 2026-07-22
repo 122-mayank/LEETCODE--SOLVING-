@@ -17,9 +17,14 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0875-koko-eating-bananas) |
 | [0540-single-element-in-a-sorted-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0416-partition-equal-subset-sum](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0416-partition-equal-subset-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0875-koko-eating-bananas) |
 | [0540-single-element-in-a-sorted-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0540-single-element-in-a-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
