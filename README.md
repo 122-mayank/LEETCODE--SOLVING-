@@ -16,8 +16,10 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0875-koko-eating-bananas) |
+| [0540-single-element-in-a-sorted-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0875-koko-eating-bananas) |
+| [0540-single-element-in-a-sorted-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
