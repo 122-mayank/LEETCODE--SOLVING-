@@ -29,6 +29,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0516-longest-palindromic-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -37,4 +38,8 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3536-maximum-product-of-two-digits) |
+## String
+|  |
+| ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0516-longest-palindromic-subsequence) |
 <!---LeetCode Topics End-->
