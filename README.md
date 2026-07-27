@@ -20,6 +20,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0416-partition-equal-subset-sum](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0416-partition-equal-subset-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0516-longest-palindromic-subsequence) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Math
 |  |
 | ------- |
@@ -48,4 +50,28 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Graph Theory
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
