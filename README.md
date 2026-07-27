@@ -19,6 +19,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0540-single-element-in-a-sorted-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0416-partition-equal-subset-sum](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0416-partition-equal-subset-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,8 +39,13 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3536-maximum-product-of-two-digits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0516-longest-palindromic-subsequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
