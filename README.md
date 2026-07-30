@@ -33,6 +33,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0416-partition-equal-subset-sum](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0516-longest-palindromic-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0115-distinct-subsequences](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0115-distinct-subsequences) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +49,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0516-longest-palindromic-subsequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [0115-distinct-subsequences](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0115-distinct-subsequences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
