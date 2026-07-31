@@ -21,12 +21,14 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0875-koko-eating-bananas) |
 | [0540-single-element-in-a-sorted-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0540-single-element-in-a-sorted-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Dynamic Programming
 |  |
 | ------- |
