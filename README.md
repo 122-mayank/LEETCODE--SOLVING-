@@ -22,6 +22,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [0877-stone-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,10 +37,12 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0516-longest-palindromic-subsequence](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0516-longest-palindromic-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0115-distinct-subsequences](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0115-distinct-subsequences) |
+| [0877-stone-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3536-maximum-product-of-two-digits) |
+| [0877-stone-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -84,4 +87,8 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
