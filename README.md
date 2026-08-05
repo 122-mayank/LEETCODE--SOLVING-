@@ -67,14 +67,17 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [3310-remove-methods-from-project](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [3310-remove-methods-from-project](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [3310-remove-methods-from-project](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
