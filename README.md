@@ -41,6 +41,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0115-distinct-subsequences](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0877-stone-game) |
+| [0647-palindromic-substrings](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0647-palindromic-substrings) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +60,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0516-longest-palindromic-subsequence](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0516-longest-palindromic-subsequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [0115-distinct-subsequences](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0115-distinct-subsequences) |
+| [0647-palindromic-substrings](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0647-palindromic-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -106,4 +108,8 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
