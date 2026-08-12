@@ -25,6 +25,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0877-stone-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3731-find-missing-elements) |
 | [0004-median-of-two-sorted-arrays](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0004-median-of-two-sorted-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3731-find-missing-elements) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,4 +124,8 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0662-maximum-width-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
