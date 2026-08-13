@@ -34,6 +34,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [0004-median-of-two-sorted-arrays](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0374-guess-number-higher-or-lower) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,4 +129,8 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
