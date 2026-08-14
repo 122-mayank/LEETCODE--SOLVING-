@@ -63,6 +63,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [0115-distinct-subsequences](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0115-distinct-subsequences) |
 | [0647-palindromic-substrings](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0647-palindromic-substrings) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -109,6 +110,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | ------- |
 | [3731-find-missing-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3731-find-missing-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +131,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Interactive
 |  |
 | ------- |
