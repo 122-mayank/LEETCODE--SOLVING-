@@ -26,6 +26,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3731-find-missing-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3731-find-missing-elements) |
 | [0004-median-of-two-sorted-arrays](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0004-median-of-two-sorted-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3731-find-missing-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3731-find-missing-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [0560-subarray-sum-equals-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,4 +138,8 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0374-guess-number-higher-or-lower) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
