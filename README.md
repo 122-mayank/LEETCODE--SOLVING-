@@ -27,6 +27,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0004-median-of-two-sorted-arrays](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0004-median-of-two-sorted-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0560-subarray-sum-equals-k) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,4 +143,8 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0560-subarray-sum-equals-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
