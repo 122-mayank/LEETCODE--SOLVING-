@@ -76,17 +76,20 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3310-remove-methods-from-project](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3310-remove-methods-from-project) |
 | [0662-maximum-width-of-binary-tree](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3310-remove-methods-from-project](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3310-remove-methods-from-project) |
 | [0662-maximum-width-of-binary-tree](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3310-remove-methods-from-project](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3310-remove-methods-from-project) |
+| [0547-number-of-provinces](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
@@ -147,4 +150,8 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
