@@ -66,6 +66,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0115-distinct-subsequences](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0115-distinct-subsequences) |
 | [0647-palindromic-substrings](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0647-palindromic-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [0301-remove-invalid-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0301-remove-invalid-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -84,6 +85,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3310-remove-methods-from-project](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3310-remove-methods-from-project) |
 | [0662-maximum-width-of-binary-tree](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0547-number-of-provinces) |
+| [0301-remove-invalid-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0301-remove-invalid-parentheses) |
 ## Graph Theory
 |  |
 | ------- |
@@ -154,4 +156,8 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0547-number-of-provinces) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
