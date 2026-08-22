@@ -52,6 +52,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3536-maximum-product-of-two-digits) |
 | [0877-stone-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0877-stone-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
 |  |
 | ------- |
