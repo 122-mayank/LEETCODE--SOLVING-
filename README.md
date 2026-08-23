@@ -53,6 +53,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3536-maximum-product-of-two-digits](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3536-maximum-product-of-two-digits) |
 | [0877-stone-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0877-stone-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [1927-sum-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1927-sum-game) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +71,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [0301-remove-invalid-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0424-longest-repeating-character-replacement) |
+| [1927-sum-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1927-sum-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -115,6 +117,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1927-sum-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,4 +172,8 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
