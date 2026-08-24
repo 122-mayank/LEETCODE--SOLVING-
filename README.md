@@ -29,6 +29,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0560-subarray-sum-equals-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0560-subarray-sum-equals-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [1046-last-stone-weight](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1046-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1046-last-stone-weight](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1046-last-stone-weight) |
 ## Depth-First Search
 |  |
 | ------- |
