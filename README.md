@@ -30,6 +30,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [1046-last-stone-weight](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1046-last-stone-weight) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +129,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [0560-subarray-sum-equals-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0560-subarray-sum-equals-k) |
 | [0424-longest-repeating-character-replacement](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0424-longest-repeating-character-replacement) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
 | ------- |
