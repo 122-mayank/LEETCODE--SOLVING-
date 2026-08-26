@@ -31,6 +31,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [1046-last-stone-weight](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1046-last-stone-weight) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3718-smallest-missing-multiple-of-k) |
+| [0014-longest-common-prefix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0014-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +75,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0301-remove-invalid-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0424-longest-repeating-character-replacement) |
 | [1927-sum-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1927-sum-game) |
+| [0014-longest-common-prefix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0014-longest-common-prefix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -180,4 +182,8 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1927-sum-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
