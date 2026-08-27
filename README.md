@@ -50,6 +50,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0115-distinct-subsequences](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0877-stone-game) |
 | [0647-palindromic-substrings](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0647-palindromic-substrings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +82,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1046-last-stone-weight](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1046-last-stone-weight) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -88,6 +90,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3310-remove-methods-from-project](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3310-remove-methods-from-project) |
 | [0662-maximum-width-of-binary-tree](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -96,12 +99,14 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0662-maximum-width-of-binary-tree](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0547-number-of-provinces) |
 | [0301-remove-invalid-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0301-remove-invalid-parentheses) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Theory
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3310-remove-methods-from-project](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3310-remove-methods-from-project) |
 | [0547-number-of-provinces](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -186,4 +191,8 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0014-longest-common-prefix) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
