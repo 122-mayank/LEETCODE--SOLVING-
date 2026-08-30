@@ -33,6 +33,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3718-smallest-missing-multiple-of-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [0014-longest-common-prefix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0014-longest-common-prefix) |
 | [0498-diagonal-traverse](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0498-diagonal-traverse) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -192,6 +193,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Trie
 |  |
 | ------- |
