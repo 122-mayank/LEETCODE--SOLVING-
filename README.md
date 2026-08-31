@@ -68,6 +68,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3731-find-missing-elements) |
+| [0767-reorganize-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0767-reorganize-string) |
 ## String
 |  |
 | ------- |
@@ -81,12 +82,14 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [1927-sum-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1927-sum-game) |
 | [0014-longest-common-prefix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0014-longest-common-prefix) |
 | [0091-decode-ways](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0091-decode-ways) |
+| [0767-reorganize-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1046-last-stone-weight](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1046-last-stone-weight) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0767-reorganize-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0767-reorganize-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -128,6 +131,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [0767-reorganize-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0767-reorganize-string) |
 ## Game Theory
 |  |
 | ------- |
@@ -142,6 +146,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0560-subarray-sum-equals-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0560-subarray-sum-equals-k) |
 | [0424-longest-repeating-character-replacement](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0424-longest-repeating-character-replacement) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3718-smallest-missing-multiple-of-k) |
+| [0767-reorganize-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0767-reorganize-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -194,6 +199,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | ------- |
 | [1927-sum-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [0767-reorganize-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0767-reorganize-string) |
 ## Trie
 |  |
 | ------- |
