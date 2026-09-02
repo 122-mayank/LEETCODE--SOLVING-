@@ -34,6 +34,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0014-longest-common-prefix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0014-longest-common-prefix) |
 | [0498-diagonal-traverse](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0498-diagonal-traverse) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0877-stone-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0877-stone-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [1927-sum-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1927-sum-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
