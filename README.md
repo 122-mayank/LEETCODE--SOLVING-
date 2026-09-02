@@ -35,6 +35,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0498-diagonal-traverse](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0498-diagonal-traverse) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3875-construct-uniform-parity-array-i) |
+| [0518-coin-change-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0518-coin-change-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0647-palindromic-substrings](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0091-decode-ways](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0091-decode-ways) |
+| [0518-coin-change-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0518-coin-change-ii) |
 ## Math
 |  |
 | ------- |
@@ -210,4 +212,12 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0787-cheapest-flights-within-k-stops) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
