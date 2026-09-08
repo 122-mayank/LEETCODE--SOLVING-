@@ -36,6 +36,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3875-construct-uniform-parity-array-i) |
 | [0518-coin-change-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0518-coin-change-ii) |
+| [3903-smallest-stable-index-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -182,6 +183,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0560-subarray-sum-equals-k) |
+| [3903-smallest-stable-index-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
 | ------- |
