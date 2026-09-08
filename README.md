@@ -65,6 +65,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [1927-sum-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1927-sum-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3870-count-commas-in-range](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3870-count-commas-in-range) |
 ## Sorting
 |  |
 | ------- |
