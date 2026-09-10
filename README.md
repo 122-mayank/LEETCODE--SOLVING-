@@ -104,6 +104,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0662-maximum-width-of-binary-tree](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -165,10 +166,12 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0662-maximum-width-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0662-maximum-width-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sliding Window
 |  |
 | ------- |
