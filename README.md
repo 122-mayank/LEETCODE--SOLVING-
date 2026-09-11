@@ -37,6 +37,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3875-construct-uniform-parity-array-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3875-construct-uniform-parity-array-i) |
 | [0518-coin-change-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0518-coin-change-ii) |
 | [3903-smallest-stable-index-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3903-smallest-stable-index-i) |
+| [0528-random-pick-with-weight](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0528-random-pick-with-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [0004-median-of-two-sorted-arrays](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0374-guess-number-higher-or-lower) |
+| [0528-random-pick-with-weight](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0528-random-pick-with-weight) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +69,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [1927-sum-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1927-sum-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3870-count-commas-in-range](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3870-count-commas-in-range) |
+| [0528-random-pick-with-weight](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0528-random-pick-with-weight) |
 ## Sorting
 |  |
 | ------- |
@@ -187,6 +190,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3903-smallest-stable-index-i) |
+| [0528-random-pick-with-weight](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0528-random-pick-with-weight) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -226,4 +230,8 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0518-coin-change-ii) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
