@@ -39,6 +39,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3903-smallest-stable-index-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3903-smallest-stable-index-i) |
 | [0528-random-pick-with-weight](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0528-random-pick-with-weight) |
 | [2762-continuous-subarrays](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2762-continuous-subarrays) |
+| [0835-image-overlap](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0835-image-overlap) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,6 +140,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0498-diagonal-traverse](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0498-diagonal-traverse) |
+| [0835-image-overlap](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0835-image-overlap) |
 ## Counting Sort
 |  |
 | ------- |
