@@ -72,6 +72,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3875-construct-uniform-parity-array-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3870-count-commas-in-range](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3870-count-commas-in-range) |
 | [0528-random-pick-with-weight](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0528-random-pick-with-weight) |
+| [0836-rectangle-overlap](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0836-rectangle-overlap) |
 ## Sorting
 |  |
 | ------- |
@@ -251,4 +252,8 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [2762-continuous-subarrays](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2762-continuous-subarrays) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
