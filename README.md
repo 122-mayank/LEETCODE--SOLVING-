@@ -40,6 +40,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0528-random-pick-with-weight](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0528-random-pick-with-weight) |
 | [2762-continuous-subarrays](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2762-continuous-subarrays) |
 | [0835-image-overlap](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0835-image-overlap) |
+| [0137-single-number-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0137-single-number-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -201,6 +202,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [0137-single-number-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0137-single-number-ii) |
 ## Union-Find
 |  |
 | ------- |
