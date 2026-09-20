@@ -96,6 +96,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0014-longest-common-prefix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0014-longest-common-prefix) |
 | [0091-decode-ways](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0091-decode-ways) |
 | [0767-reorganize-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0767-reorganize-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -216,6 +217,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [0498-diagonal-traverse](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0498-diagonal-traverse) |
+| [3498-reverse-degree-of-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
