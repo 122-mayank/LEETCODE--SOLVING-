@@ -41,6 +41,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [2762-continuous-subarrays](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2762-continuous-subarrays) |
 | [0835-image-overlap](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0835-image-overlap) |
 | [0137-single-number-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0137-single-number-ii) |
+| [0063-unique-paths-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0063-unique-paths-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0787-cheapest-flights-within-k-stops](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0091-decode-ways](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0091-decode-ways) |
 | [0518-coin-change-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0518-coin-change-ii) |
+| [0063-unique-paths-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0063-unique-paths-ii) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +146,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0498-diagonal-traverse](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0835-image-overlap) |
+| [0063-unique-paths-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0063-unique-paths-ii) |
 ## Counting Sort
 |  |
 | ------- |
