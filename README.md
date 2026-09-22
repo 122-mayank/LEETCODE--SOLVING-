@@ -42,6 +42,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0835-image-overlap](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0835-image-overlap) |
 | [0137-single-number-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0137-single-number-ii) |
 | [0063-unique-paths-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0063-unique-paths-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0004-median-of-two-sorted-arrays](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0374-guess-number-higher-or-lower) |
 | [0528-random-pick-with-weight](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0528-random-pick-with-weight) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,6 +86,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3731-find-missing-elements) |
 | [0767-reorganize-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0767-reorganize-string) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## String
 |  |
 | ------- |
@@ -107,6 +110,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0787-cheapest-flights-within-k-stops](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0767-reorganize-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0767-reorganize-string) |
 | [2762-continuous-subarrays](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2762-continuous-subarrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -147,6 +151,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0498-diagonal-traverse](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0835-image-overlap) |
 | [0063-unique-paths-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0063-unique-paths-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Counting Sort
 |  |
 | ------- |
