@@ -44,6 +44,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0063-unique-paths-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0063-unique-paths-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0091-decode-ways](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0091-decode-ways) |
 | [0767-reorganize-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0767-reorganize-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3498-reverse-degree-of-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -176,6 +178,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3718-smallest-missing-multiple-of-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [0767-reorganize-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0767-reorganize-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
