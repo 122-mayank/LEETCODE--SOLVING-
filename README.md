@@ -107,6 +107,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0767-reorganize-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0767-reorganize-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3498-reverse-degree-of-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -276,4 +277,12 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
