@@ -73,6 +73,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0063-unique-paths-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0063-unique-paths-ii) |
 | [0097-interleaving-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0097-interleaving-string) |
 | [0072-edit-distance](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0072-edit-distance) |
+| [0022-generate-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0022-generate-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +114,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0097-interleaving-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0097-interleaving-string) |
 | [0072-edit-distance](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0072-edit-distance) |
+| [0022-generate-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0022-generate-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -236,6 +238,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0301-remove-invalid-parentheses) |
+| [0022-generate-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0022-generate-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -292,4 +295,5 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [0022-generate-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
