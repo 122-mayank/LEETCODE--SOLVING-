@@ -46,6 +46,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0350-intersection-of-two-arrays-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [0036-valid-sudoku](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0036-valid-sudoku) |
+| [0283-move-zeroes](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -198,6 +199,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | ------- |
 | [0647-palindromic-substrings](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0647-palindromic-substrings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0283-move-zeroes](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0283-move-zeroes) |
 ## Tree
 |  |
 | ------- |
