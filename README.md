@@ -75,6 +75,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0097-interleaving-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0097-interleaving-string) |
 | [0072-edit-distance](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0072-edit-distance) |
 | [0022-generate-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0678-valid-parenthesis-string) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +117,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0097-interleaving-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0097-interleaving-string) |
 | [0072-edit-distance](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0072-edit-distance) |
 | [0022-generate-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0678-valid-parenthesis-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -253,6 +255,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [1927-sum-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [0767-reorganize-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0767-reorganize-string) |
+| [0678-valid-parenthesis-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0678-valid-parenthesis-string) |
 ## Trie
 |  |
 | ------- |
@@ -293,9 +296,11 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0022-generate-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
