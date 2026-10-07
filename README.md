@@ -118,6 +118,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0072-edit-distance](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0072-edit-distance) |
 | [0022-generate-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -256,6 +257,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [0767-reorganize-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0767-reorganize-string) |
 | [0678-valid-parenthesis-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Trie
 |  |
 | ------- |
@@ -297,10 +299,12 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0022-generate-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
