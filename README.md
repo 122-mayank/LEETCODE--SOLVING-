@@ -119,6 +119,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0022-generate-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1021-remove-outermost-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -300,6 +301,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -307,4 +309,5 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0022-generate-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
