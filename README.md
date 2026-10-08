@@ -120,6 +120,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0678-valid-parenthesis-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1021-remove-outermost-parentheses) |
+| [0020-valid-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0020-valid-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -302,6 +303,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0678-valid-parenthesis-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1021-remove-outermost-parentheses) |
+| [0020-valid-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0020-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -310,4 +312,5 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0678-valid-parenthesis-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1021-remove-outermost-parentheses) |
+| [0020-valid-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
