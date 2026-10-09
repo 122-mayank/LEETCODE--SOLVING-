@@ -121,6 +121,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1021-remove-outermost-parentheses) |
 | [0020-valid-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0020-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -260,6 +261,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0767-reorganize-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0767-reorganize-string) |
 | [0678-valid-parenthesis-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Trie
 |  |
 | ------- |
@@ -304,6 +306,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1021-remove-outermost-parentheses) |
 | [0020-valid-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0020-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -313,4 +316,5 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1021-remove-outermost-parentheses) |
 | [0020-valid-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0020-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
