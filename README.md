@@ -48,6 +48,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0036-valid-sudoku](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0036-valid-sudoku) |
 | [0283-move-zeroes](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0283-move-zeroes) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -322,4 +323,8 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [1021-remove-outermost-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1021-remove-outermost-parentheses) |
 | [0020-valid-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0020-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
