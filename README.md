@@ -49,6 +49,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0283-move-zeroes](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0283-move-zeroes) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [0268-missing-number](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [0268-missing-number](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +92,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3870-count-commas-in-range](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3870-count-commas-in-range) |
 | [0528-random-pick-with-weight](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0528-random-pick-with-weight) |
 | [0836-rectangle-overlap](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0836-rectangle-overlap) |
+| [0268-missing-number](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +104,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [0268-missing-number](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -201,6 +205,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0350-intersection-of-two-arrays-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [0036-valid-sudoku](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0036-valid-sudoku) |
+| [0268-missing-number](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -243,6 +248,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [0137-single-number-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0268-missing-number) |
 ## Union-Find
 |  |
 | ------- |
