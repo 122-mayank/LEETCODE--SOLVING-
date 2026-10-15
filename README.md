@@ -133,6 +133,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [1021-remove-outermost-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1021-remove-outermost-parentheses) |
 | [0020-valid-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0020-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -209,6 +210,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [0036-valid-sudoku](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0036-valid-sudoku) |
 | [0268-missing-number](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -236,6 +238,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [0424-longest-repeating-character-replacement](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0424-longest-repeating-character-replacement) |
 | [2762-continuous-subarrays](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2762-continuous-subarrays) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Interactive
 |  |
 | ------- |
