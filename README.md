@@ -51,6 +51,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [2778-sum-of-squares-of-special-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [0268-missing-number](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0268-missing-number) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [2333-minimum-sum-of-squared-difference](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [0268-missing-number](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0268-missing-number) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -211,6 +213,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0036-valid-sudoku](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0036-valid-sudoku) |
 | [0268-missing-number](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
