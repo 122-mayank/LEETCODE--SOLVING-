@@ -53,6 +53,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3727-maximum-alternating-sum-of-squares](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3886-sum-of-sortable-integers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0836-rectangle-overlap](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0836-rectangle-overlap) |
 | [0268-missing-number](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0268-missing-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3886-sum-of-sortable-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +115,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3727-maximum-alternating-sum-of-squares](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3886-sum-of-sortable-integers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -347,4 +350,5 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
