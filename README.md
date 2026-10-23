@@ -55,6 +55,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [2089-find-target-indices-after-sorting-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3886-sum-of-sortable-integers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -266,6 +267,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [0137-single-number-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0268-missing-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Union-Find
 |  |
 | ------- |
