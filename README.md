@@ -54,6 +54,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3886-sum-of-sortable-integers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
