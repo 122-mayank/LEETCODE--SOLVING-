@@ -102,6 +102,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0268-missing-number](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0268-missing-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3886-sum-of-sortable-integers) |
+| [2409-count-days-spent-together](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2409-count-days-spent-together) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +146,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [2409-count-days-spent-together](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2409-count-days-spent-together) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
