@@ -57,6 +57,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +90,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0072-edit-distance](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0072-edit-distance) |
 | [0022-generate-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0678-valid-parenthesis-string) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -203,6 +205,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0036-valid-sudoku](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0036-valid-sudoku) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting Sort
 |  |
 | ------- |
@@ -274,6 +277,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0137-single-number-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0268-missing-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
