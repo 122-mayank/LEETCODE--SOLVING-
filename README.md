@@ -150,6 +150,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0438-find-all-anagrams-in-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [2409-count-days-spent-together](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2409-count-days-spent-together) |
+| [0076-minimum-window-substring](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0076-minimum-window-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -232,6 +233,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0268-missing-number](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [0076-minimum-window-substring](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0076-minimum-window-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -260,6 +262,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0424-longest-repeating-character-replacement](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0424-longest-repeating-character-replacement) |
 | [2762-continuous-subarrays](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2762-continuous-subarrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0076-minimum-window-substring](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0076-minimum-window-substring) |
 ## Interactive
 |  |
 | ------- |
