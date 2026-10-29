@@ -58,6 +58,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [0011-container-with-most-water](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0011-container-with-most-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -244,6 +245,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0647-palindromic-substrings](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0647-palindromic-substrings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0283-move-zeroes](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0283-move-zeroes) |
+| [0011-container-with-most-water](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0011-container-with-most-water) |
 ## Tree
 |  |
 | ------- |
@@ -309,6 +311,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [2333-minimum-sum-of-squared-difference](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [0011-container-with-most-water](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0011-container-with-most-water) |
 ## Trie
 |  |
 | ------- |
