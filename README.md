@@ -152,6 +152,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3863-minimum-operations-to-sort-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [2409-count-days-spent-together](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2409-count-days-spent-together) |
 | [0076-minimum-window-substring](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0076-minimum-window-substring) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -162,6 +163,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [2762-continuous-subarrays](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2762-continuous-subarrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -189,6 +191,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3310-remove-methods-from-project](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3310-remove-methods-from-project) |
 | [0547-number-of-provinces](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
 | ------- |
@@ -320,6 +323,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Knapsack Problem
 |  |
 | ------- |
