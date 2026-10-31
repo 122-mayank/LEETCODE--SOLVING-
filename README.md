@@ -59,6 +59,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [0011-container-with-most-water](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0011-container-with-most-water) |
+| [3665-twisted-mirror-path-count](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3665-twisted-mirror-path-count) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +93,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0022-generate-parentheses](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0678-valid-parenthesis-string) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3665-twisted-mirror-path-count](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3665-twisted-mirror-path-count) |
 ## Math
 |  |
 | ------- |
@@ -211,6 +213,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0036-valid-sudoku](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0036-valid-sudoku) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3665-twisted-mirror-path-count](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3665-twisted-mirror-path-count) |
 ## Counting Sort
 |  |
 | ------- |
