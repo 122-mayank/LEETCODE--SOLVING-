@@ -60,6 +60,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3882-minimum-xor-path-in-a-grid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [0011-container-with-most-water](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0011-container-with-most-water) |
 | [3665-twisted-mirror-path-count](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3665-twisted-mirror-path-count) |
+| [0213-house-robber-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0213-house-robber-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0678-valid-parenthesis-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0678-valid-parenthesis-string) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3665-twisted-mirror-path-count](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3665-twisted-mirror-path-count) |
+| [0213-house-robber-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0213-house-robber-ii) |
 ## Math
 |  |
 | ------- |
