@@ -2,23 +2,19 @@ class Solution {
 public:
     int minMoves2(vector<int>& nums) {
 
-            // apply the bruteforce approach
-            int n = nums.size();
-            long int mini = INT_MAX;
+        int n = nums.size();
 
-            for(int i = 0 ; i < n ; i++){
-                  
-                  long int sum = 0;
-                  
-                 for(int j = 0 ; j < n ; j++){
-                       
-                       long int diff = abs(nums[i] - nums[j]);
-                       sum += diff; 
-                 }
+        sort(nums.begin() , nums.end());
 
-                mini = min(mini , sum);
+        int minimumMoves = 0;
 
-            }
-          return mini;
+        int mid = nums[n / 2];
+
+        for(int i = 0 ; i < n ; i++){
+             int diff = abs(mid - nums[i]);
+             minimumMoves += diff;
+        }
+
+        return minimumMoves;
     }
 };
