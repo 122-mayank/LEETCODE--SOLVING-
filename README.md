@@ -62,6 +62,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3665-twisted-mirror-path-count](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3665-twisted-mirror-path-count) |
 | [0213-house-robber-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0213-house-robber-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3886-sum-of-sortable-integers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3886-sum-of-sortable-integers) |
 | [2409-count-days-spent-together](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +131,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3886-sum-of-sortable-integers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3886-sum-of-sortable-integers) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## String
 |  |
 | ------- |
