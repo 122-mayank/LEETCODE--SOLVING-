@@ -63,6 +63,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0213-house-robber-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0213-house-robber-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +116,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [2409-count-days-spent-together](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Sorting
 |  |
 | ------- |
