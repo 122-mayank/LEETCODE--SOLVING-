@@ -61,6 +61,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0011-container-with-most-water](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0011-container-with-most-water) |
 | [3665-twisted-mirror-path-count](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3665-twisted-mirror-path-count) |
 | [0213-house-robber-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0213-house-robber-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3886-sum-of-sortable-integers) |
 | [2409-count-days-spent-together](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2409-count-days-spent-together) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
