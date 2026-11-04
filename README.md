@@ -64,6 +64,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3882-minimum-xor-path-in-a-grid](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3665-twisted-mirror-path-count](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3665-twisted-mirror-path-count) |
 | [0213-house-robber-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0213-house-robber-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +119,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -175,6 +178,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -250,6 +254,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0438-find-all-anagrams-in-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [0076-minimum-window-substring](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0076-minimum-window-substring) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -280,6 +285,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [2762-continuous-subarrays](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2762-continuous-subarrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0076-minimum-window-substring) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Interactive
 |  |
 | ------- |
