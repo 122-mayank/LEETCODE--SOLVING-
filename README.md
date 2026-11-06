@@ -65,6 +65,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [2747-count-zero-request-servers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2747-count-zero-request-servers) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +138,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [2089-find-target-indices-after-sorting-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3886-sum-of-sortable-integers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3886-sum-of-sortable-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2747-count-zero-request-servers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2747-count-zero-request-servers) |
 ## String
 |  |
 | ------- |
@@ -255,6 +257,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [0076-minimum-window-substring](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0076-minimum-window-substring) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [2747-count-zero-request-servers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2747-count-zero-request-servers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -286,6 +289,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0438-find-all-anagrams-in-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0076-minimum-window-substring) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [2747-count-zero-request-servers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2747-count-zero-request-servers) |
 ## Interactive
 |  |
 | ------- |
