@@ -66,6 +66,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [2747-count-zero-request-servers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2747-count-zero-request-servers) |
+| [1882-process-tasks-using-servers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1882-process-tasks-using-servers) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,6 +182,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [2333-minimum-sum-of-squared-difference](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [1882-process-tasks-using-servers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1882-process-tasks-using-servers) |
 ## Depth-First Search
 |  |
 | ------- |
