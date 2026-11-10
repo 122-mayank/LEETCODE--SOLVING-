@@ -67,6 +67,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [2747-count-zero-request-servers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2747-count-zero-request-servers) |
 | [1882-process-tasks-using-servers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1882-process-tasks-using-servers) |
+| [3693-climbing-stairs-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3665-twisted-mirror-path-count](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3665-twisted-mirror-path-count) |
 | [0213-house-robber-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0213-house-robber-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3693-climbing-stairs-ii) |
 ## Math
 |  |
 | ------- |
