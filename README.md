@@ -68,6 +68,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [2747-count-zero-request-servers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2747-count-zero-request-servers) |
 | [1882-process-tasks-using-servers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1882-process-tasks-using-servers) |
 | [3693-climbing-stairs-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3693-climbing-stairs-ii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Binary Search
 |  |
 | ------- |
