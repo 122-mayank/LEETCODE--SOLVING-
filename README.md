@@ -69,6 +69,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [1882-process-tasks-using-servers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1882-process-tasks-using-servers) |
 | [3693-climbing-stairs-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3693-climbing-stairs-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -295,6 +296,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0076-minimum-window-substring](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0076-minimum-window-substring) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [2747-count-zero-request-servers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Interactive
 |  |
 | ------- |
@@ -305,6 +307,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0560-subarray-sum-equals-k](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3903-smallest-stable-index-i) |
 | [0528-random-pick-with-weight](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0528-random-pick-with-weight) |
+| [3364-minimum-positive-sum-subarray](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
