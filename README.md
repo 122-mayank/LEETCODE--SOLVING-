@@ -70,6 +70,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3693-climbing-stairs-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3693-climbing-stairs-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3364-minimum-positive-sum-subarray) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,6 +145,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3886-sum-of-sortable-integers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3886-sum-of-sortable-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2747-count-zero-request-servers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2747-count-zero-request-servers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## String
 |  |
 | ------- |
@@ -345,6 +347,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3727-maximum-alternating-sum-of-squares](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [0011-container-with-most-water](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0011-container-with-most-water) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Trie
 |  |
 | ------- |
