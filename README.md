@@ -176,6 +176,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [2409-count-days-spent-together](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2409-count-days-spent-together) |
 | [0076-minimum-window-substring](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0076-minimum-window-substring) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -334,6 +335,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [0498-diagonal-traverse](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0498-diagonal-traverse) |
 | [3498-reverse-degree-of-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3498-reverse-degree-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Greedy
 |  |
 | ------- |
