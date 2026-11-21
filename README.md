@@ -177,6 +177,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0076-minimum-window-substring](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0076-minimum-window-substring) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
