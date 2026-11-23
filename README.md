@@ -71,6 +71,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3364-minimum-positive-sum-subarray) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [1352-product-of-the-last-k-numbers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +128,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [1352-product-of-the-last-k-numbers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1352-product-of-the-last-k-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -313,6 +315,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3903-smallest-stable-index-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3903-smallest-stable-index-i) |
 | [0528-random-pick-with-weight](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0528-random-pick-with-weight) |
 | [3364-minimum-positive-sum-subarray](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3364-minimum-positive-sum-subarray) |
+| [1352-product-of-the-last-k-numbers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1352-product-of-the-last-k-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -413,4 +416,12 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3886-sum-of-sortable-integers) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
