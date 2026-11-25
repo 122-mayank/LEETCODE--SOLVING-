@@ -72,6 +72,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3364-minimum-positive-sum-subarray](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3364-minimum-positive-sum-subarray) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [1352-product-of-the-last-k-numbers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1352-product-of-the-last-k-numbers) |
+| [3934-smallest-unique-subarray](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [2333-minimum-sum-of-squared-difference](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [0268-missing-number](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3934-smallest-unique-subarray](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -271,6 +273,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0076-minimum-window-substring](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0076-minimum-window-substring) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [2747-count-zero-request-servers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2747-count-zero-request-servers) |
+| [3934-smallest-unique-subarray](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -424,4 +427,16 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
