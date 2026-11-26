@@ -131,6 +131,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [1352-product-of-the-last-k-numbers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3360-stone-removal-game) |
 ## Sorting
 |  |
 | ------- |
@@ -344,6 +345,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0498-diagonal-traverse](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0498-diagonal-traverse) |
 | [3498-reverse-degree-of-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3498-reverse-degree-of-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3360-stone-removal-game) |
 ## Greedy
 |  |
 | ------- |
