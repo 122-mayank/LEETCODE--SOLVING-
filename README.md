@@ -73,6 +73,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [2567-minimum-score-by-changing-two-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [1352-product-of-the-last-k-numbers](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/1352-product-of-the-last-k-numbers) |
 | [3934-smallest-unique-subarray](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [0213-house-robber-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0213-house-robber-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -360,6 +362,7 @@ I am regularly updating it as I solve new problems to improve my problem-solving
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [0011-container-with-most-water](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/0011-container-with-most-water) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/122-mayank/LEETCODE--SOLVING-/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Trie
 |  |
 | ------- |
